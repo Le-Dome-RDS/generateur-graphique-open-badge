@@ -1,0 +1,26 @@
+/* (A) CONTAINERS */
+.tabNav, .tabCon {
+    max-width: 600px;
+    margin: 0 auto;
+    box-sizing: border-box;
+  }
+   
+  /* (B) TAB NAVIGATION */
+  .tabNav { background: #333; }
+  .tabNav .tabItem {
+    display: inline-block;
+    padding: 15px;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .tabNav .tabItem.active { background: #d3643b; }
+  
+  /* (C) TAB CONTAINER & SECTIONS */
+  .tabCon {
+    padding: 15px;
+    background: #dedede;
+    min-height: 450px;
+  }
+  .tabCon .tabSec { display: none; }
+  .tabCon .tabSec.active { display: block; }

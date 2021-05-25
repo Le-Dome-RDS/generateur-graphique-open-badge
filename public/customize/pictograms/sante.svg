@@ -1,0 +1,8 @@
+<svg id="sante" enable-background="new 0 0 24 24" viewBox="0 0 24 24"
+    xmlns="http://www.w3.org/2000/svg">
+    <title>sante</title>
+
+    <path style="stroke-width:0.66666667;stroke-miterlimit:10;stroke-dasharray:none" id="path94" d="   M6.654,13.439c2.143,2.346,4.826,4.078,4.826,4.078s7.438-4.798,7.438-9.235c0-2.186-1.772-3.958-3.958-3.958   c-1.502,0-2.759,0.72-3.479,1.919c-0.718-1.199-1.976-1.919-3.478-1.919c-2.186,0-3.958,1.772-3.958,3.958   c0,1.249,0.591,2.527,1.438,3.718" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.5" stroke="currentColor" fill="none" />
+
+    <polyline style="stroke-width:0.66666667;stroke-miterlimit:10;stroke-dasharray:none" id="polyline96" points="   4.045,12 7.645,12 8.363,10.801 9.563,13.2 11.48,8.163 12.921,12 14.84,12  " stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.5" stroke="currentColor" fill="none" />
+</svg>

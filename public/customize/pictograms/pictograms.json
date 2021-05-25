@@ -1,0 +1,6 @@
+{
+  "Scientifique": ["science"],
+  "Santé": ["sante"],
+  "Environnement": ["eau"],
+  "Numérique": ["cloud"]
+}

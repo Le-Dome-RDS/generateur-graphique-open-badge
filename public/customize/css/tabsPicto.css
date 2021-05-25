@@ -1,0 +1,25 @@
+/* (A) CONTAINERS */
+.tabNavPicto, .tabConPicto {
+    max-width: 600px;
+    margin: 0 auto;
+    box-sizing: border-box;
+  }
+   
+  /* (B) TAB NAVIGATION */
+  .tabNavPicto { background: #999; }
+  .tabNavPicto .tabItemPicto {
+    display: inline-block;
+    padding: 15px;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .tabNavPicto .tabItemPicto.active { background: #cf8367; }
+  
+  /* (C) TAB CONTAINER & SECTIONS */
+  .tabConPicto {
+    padding: 15px;
+    background: #dedede;
+  }
+  .tabConPicto .tabSecPicto { display: none; }
+  .tabConPicto .tabSecPicto.active { display: block; }

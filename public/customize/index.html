@@ -1,0 +1,858 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <title>Générateur Open badge</title>
+    <link rel="icon" href="../favicon.ico" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="./css/customize.css" />
+    <link rel="stylesheet" href="./css/tabs.css" />
+    <link rel="stylesheet" href="./css/tabsPicto.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <script src="./js/svg.min.js"></script>
+    <script src="./js/SaveSvgToPng.js"></script>
+    <script src="./js/openBadgeCreator.js"></script>
+    <script src="./js/customize.js"></script>
+    <script src="./js/tabs.js"></script>
+    <script src="./js/tabs-picto.js"></script>
+    <script src="./js/color-scheme.min.js"></script>
+  </head>
+
+  <body>
+    <div class="App">
+      <div style="display: flex; flex-direction: column">
+        <header>
+          <a href="/" style="text-decoration: none; color: #403b33">
+            <h1>
+              Générateur de visuel pour
+              <span style="color: #d3643b">Open badge</span>
+            </h1>
+          </a>
+          <nav>
+            <ul>
+              <li>
+                <a href="/recurrents">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="16"
+                    height="16"
+                    fill="currentColor"
+                    class="bi bi-bookmark-star"
+                    viewBox="0 0 16 16"
+                  >
+                    <path
+                      d="M7.84 4.1a.178.178 0 0 1 .32 0l.634 1.285a.178.178 0 0 0 .134.098l1.42.206c.145.021.204.2.098.303L9.42 6.993a.178.178 0 0 0-.051.158l.242 1.414a.178.178 0 0 1-.258.187l-1.27-.668a.178.178 0 0 0-.165 0l-1.27.668a.178.178 0 0 1-.257-.187l.242-1.414a.178.178 0 0 0-.05-.158l-1.03-1.001a.178.178 0 0 1 .098-.303l1.42-.206a.178.178 0 0 0 .134-.098L7.84 4.1z"
+                    />
+                    <path
+                      d="M2 2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v13.5a.5.5 0 0 1-.777.416L8 13.101l-5.223 2.815A.5.5 0 0 1 2 15.5V2zm2-1a1 1 0 0 0-1 1v12.566l4.723-2.482a.5.5 0 0 1 .554 0L13 14.566V2a1 1 0 0 0-1-1H4z"
+                    />
+                  </svg>
+                  Récurrents
+                </a>
+              </li>
+              <li>
+                <a href="/matrix">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="16"
+                    height="16"
+                    fill="currentColor"
+                    class="bi bi-search"
+                    viewBox="0 0 16 16"
+                  >
+                    <path
+                      d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"
+                    />
+                  </svg>
+                  Matrice
+                </a>
+              </li>
+              <li>
+                <a href="/questions">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="16"
+                    height="16"
+                    fill="currentColor"
+                    class="bi bi-diagram-3"
+                    viewBox="0 0 16 16"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M6 3.5A1.5 1.5 0 0 1 7.5 2h1A1.5 1.5 0 0 1 10 3.5v1A1.5 1.5 0 0 1 8.5 6v1H14a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-1 0V8h-5v.5a.5.5 0 0 1-1 0V8h-5v.5a.5.5 0 0 1-1 0v-1A.5.5 0 0 1 2 7h5.5V6A1.5 1.5 0 0 1 6 4.5v-1zM8.5 5a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1zM0 11.5A1.5 1.5 0 0 1 1.5 10h1A1.5 1.5 0 0 1 4 11.5v1A1.5 1.5 0 0 1 2.5 14h-1A1.5 1.5 0 0 1 0 12.5v-1zm1.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1zm4.5.5A1.5 1.5 0 0 1 7.5 10h1a1.5 1.5 0 0 1 1.5 1.5v1A1.5 1.5 0 0 1 8.5 14h-1A1.5 1.5 0 0 1 6 12.5v-1zm1.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1zm4.5.5a1.5 1.5 0 0 1 1.5-1.5h1a1.5 1.5 0 0 1 1.5 1.5v1a1.5 1.5 0 0 1-1.5 1.5h-1a1.5 1.5 0 0 1-1.5-1.5v-1zm1.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1z"
+                    />
+                  </svg>
+                  Questions
+                </a>
+              </li>
+            </ul>
+          </nav>
+        </header>
+        <main>
+          <div id="modification">
+            <nav class="tabNav">
+              <div class="tabItem">Couleurs</div>
+              <div class="tabItem">Pictogrammes</div>
+              <div class="tabItem">Textes</div>
+            </nav>
+            <div class="tabCon">
+              <!-- tab COULEURS -->
+              <div id="couleur" class="tabSec">
+                <!-- <div>
+                      Voici different set de couleurs possible :
+                      <div>
+                        <button onclick="default_color()">
+                          couleur de base
+                        </button>
+                        <button onclick="set_color()">autres couleurs</button>
+                        <button onclick="set_color2()">
+                          encore d'autres couleurs
+                        </button>
+                      </div>
+                    </div> -->
+
+                <div id="custom-colors">
+                  <p style="margin-bottom: 10px">
+                    <button id="magic-scheme-soft" class="magic-scheme">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="16"
+                        height="16"
+                        fill="currentColor"
+                        class="bi bi-palette"
+                        viewBox="0 0 16 16"
+                      >
+                        <path
+                          d="M8 5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm4 3a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM5.5 7a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm.5 6a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"
+                        />
+                        <path
+                          d="M16 8c0 3.15-1.866 2.585-3.567 2.07C11.42 9.763 10.465 9.473 10 10c-.603.683-.475 1.819-.351 2.92C9.826 14.495 9.996 16 8 16a8 8 0 1 1 8-8zm-8 7c.611 0 .654-.171.655-.176.078-.146.124-.464.07-1.119-.014-.168-.037-.37-.061-.591-.052-.464-.112-1.005-.118-1.462-.01-.707.083-1.61.704-2.314.369-.417.845-.578 1.272-.618.404-.038.812.026 1.16.104.343.077.702.186 1.025.284l.028.008c.346.105.658.199.953.266.653.148.904.083.991.024C14.717 9.38 15 9.161 15 8a7 7 0 1 0-7 7z"
+                        />
+                      </svg>
+                      douce</button
+                    >&nbsp;
+                    <button id="magic-scheme-pastel" class="magic-scheme">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="16"
+                        height="16"
+                        fill="currentColor"
+                        class="bi bi-palette"
+                        viewBox="0 0 16 16"
+                      >
+                        <path
+                          d="M8 5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm4 3a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM5.5 7a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm.5 6a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"
+                        />
+                        <path
+                          d="M16 8c0 3.15-1.866 2.585-3.567 2.07C11.42 9.763 10.465 9.473 10 10c-.603.683-.475 1.819-.351 2.92C9.826 14.495 9.996 16 8 16a8 8 0 1 1 8-8zm-8 7c.611 0 .654-.171.655-.176.078-.146.124-.464.07-1.119-.014-.168-.037-.37-.061-.591-.052-.464-.112-1.005-.118-1.462-.01-.707.083-1.61.704-2.314.369-.417.845-.578 1.272-.618.404-.038.812.026 1.16.104.343.077.702.186 1.025.284l.028.008c.346.105.658.199.953.266.653.148.904.083.991.024C14.717 9.38 15 9.161 15 8a7 7 0 1 0-7 7z"
+                        />
+                      </svg>
+                      pastel</button
+                    >&nbsp;
+                    <button id="magic-scheme-normal" class="magic-scheme">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="16"
+                        height="16"
+                        fill="currentColor"
+                        class="bi bi-palette"
+                        viewBox="0 0 16 16"
+                      >
+                        <path
+                          d="M8 5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm4 3a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM5.5 7a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm.5 6a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"
+                        />
+                        <path
+                          d="M16 8c0 3.15-1.866 2.585-3.567 2.07C11.42 9.763 10.465 9.473 10 10c-.603.683-.475 1.819-.351 2.92C9.826 14.495 9.996 16 8 16a8 8 0 1 1 8-8zm-8 7c.611 0 .654-.171.655-.176.078-.146.124-.464.07-1.119-.014-.168-.037-.37-.061-.591-.052-.464-.112-1.005-.118-1.462-.01-.707.083-1.61.704-2.314.369-.417.845-.578 1.272-.618.404-.038.812.026 1.16.104.343.077.702.186 1.025.284l.028.008c.346.105.658.199.953.266.653.148.904.083.991.024C14.717 9.38 15 9.161 15 8a7 7 0 1 0-7 7z"
+                        />
+                      </svg>
+                      normale</button
+                    >&nbsp;
+                    <button id="magic-scheme-hard" class="magic-scheme">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="16"
+                        height="16"
+                        fill="currentColor"
+                        class="bi bi-palette"
+                        viewBox="0 0 16 16"
+                      >
+                        <path
+                          d="M8 5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm4 3a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM5.5 7a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm.5 6a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"
+                        />
+                        <path
+                          d="M16 8c0 3.15-1.866 2.585-3.567 2.07C11.42 9.763 10.465 9.473 10 10c-.603.683-.475 1.819-.351 2.92C9.826 14.495 9.996 16 8 16a8 8 0 1 1 8-8zm-8 7c.611 0 .654-.171.655-.176.078-.146.124-.464.07-1.119-.014-.168-.037-.37-.061-.591-.052-.464-.112-1.005-.118-1.462-.01-.707.083-1.61.704-2.314.369-.417.845-.578 1.272-.618.404-.038.812.026 1.16.104.343.077.702.186 1.025.284l.028.008c.346.105.658.199.953.266.653.148.904.083.991.024C14.717 9.38 15 9.161 15 8a7 7 0 1 0-7 7z"
+                        />
+                      </svg>
+                      dure</button
+                    >&nbsp;
+                  </p>
+                  <p>
+                    <input type="color" id="couleur_1" value="#ffffff" />
+                    <label for="couleur_1"
+                      >couleur 1 : logo et titre principal</label
+                    >
+                  </p>
+                  <p>
+                    <input type="color" id="couleur_2" value="#473467" />
+                    <label for="couleur_2"
+                      >couleur 2 : picto, texte et filet "catégorie"</label
+                    >
+                  </p>
+                  <p>
+                    <input type="color" id="couleur_3" value="#009eb9" />
+                    <label for="couleur_3"
+                      >couleur 3 : fond et filet "posture"</label
+                    >
+                  </p>
+                  <p>
+                    <input type="color" id="couleur_4" value="#000000" />
+                    <label for="couleur_4"
+                      >couleur 4 : pictos et textes "thème" et
+                      "catégorie"</label
+                    >
+                  </p>
+                </div>
+
+                <div>
+                  <p>
+                    <img
+                      src="./img/roue_chromatique.png"
+                      alt="roue_chromatique"
+                    />
+                  </p>
+                </div>
+              </div>
+              <!-- tab PICTOGRAMMES -->
+              <div id="picto" class="tabSec">
+                <div>
+                  <p>
+                    Appliquer au pictogramme&nbsp;
+                    <select id="picto-layer-id">
+                      <option value="10">Principal</option>
+                      <option value="32">Thème</option>
+                    </select>
+                  </p>
+                </div>
+                <div id="pictos"></div>
+
+                <div>
+                  <p class="own-picto-title">Ou chargez votre image :</p>
+
+                  <div style="margin-bottom: 10px">
+                    <label for="image_perso">Format SVG</label>
+                    <input
+                      type="file"
+                      id="image_perso"
+                      name="image_perso"
+                      accept="image/svg+xml"
+                      style="cursor: pointer"
+                    />
+                    <div id="image_perso_display" class="image-area"></div>
+                  </div>
+                  <div>
+                    <label for="image_perso_raster">Format PNG ou JPG</label>
+                    <input
+                      type="file"
+                      id="image_perso_raster"
+                      name="image_perso_raster"
+                      accept="image/png, image/jpeg"
+                      style="cursor: pointer"
+                    />
+                    <div
+                      id="image_perso_raster_display"
+                      class="image-area"
+                    ></div>
+                  </div>
+                </div>
+
+                <div class="commands-container">
+                  <div class="arrows-block">
+                    <p class="arrow-top">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="32"
+                        height="32"
+                        fill="currentColor"
+                        class="bi bi-arrow-up-square-fill picto-position-arrow"
+                        viewBox="0 0 16 16"
+                        data-stepx="0"
+                        data-stepy="-5"
+                      >
+                        <path
+                          d="M2 16a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2zm6.5-4.5V5.707l2.146 2.147a.5.5 0 0 0 .708-.708l-3-3a.5.5 0 0 0-.708 0l-3 3a.5.5 0 1 0 .708.708L7.5 5.707V11.5a.5.5 0 0 0 1 0z"
+                        />
+                      </svg>
+                    </p>
+                    <p>
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="32"
+                        height="32"
+                        fill="currentColor"
+                        class="bi bi-arrow-left-square-fill picto-position-arrow"
+                        viewBox="0 0 16 16"
+                        data-stepx="-5"
+                        data-stepy="0"
+                      >
+                        <path
+                          d="M16 14a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12zm-4.5-6.5H5.707l2.147-2.146a.5.5 0 1 0-.708-.708l-3 3a.5.5 0 0 0 0 .708l3 3a.5.5 0 0 0 .708-.708L5.707 8.5H11.5a.5.5 0 0 0 0-1z"
+                        />
+                      </svg>
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="32"
+                        height="32"
+                        fill="currentColor"
+                        class="bi bi-arrow-right-square-fill picto-position-arrow"
+                        viewBox="0 0 16 16"
+                        data-stepx="5"
+                        data-stepy="0"
+                      >
+                        <path
+                          d="M0 14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2a2 2 0 0 0-2 2v12zm4.5-6.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5a.5.5 0 0 1 0-1z"
+                        />
+                      </svg>
+                    </p>
+                    <p class="arrow-bottom">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="32"
+                        height="32"
+                        fill="currentColor"
+                        class="bi bi-arrow-down-square-fill picto-position-arrow"
+                        viewBox="0 0 16 16"
+                        data-stepx="0"
+                        data-stepy="5"
+                      >
+                        <path
+                          d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm6.5 4.5v5.793l2.146-2.147a.5.5 0 0 1 .708.708l-3 3a.5.5 0 0 1-.708 0l-3-3a.5.5 0 1 1 .708-.708L7.5 10.293V4.5a.5.5 0 0 1 1 0z"
+                        />
+                      </svg>
+                    </p>
+                  </div>
+                  <div class="plusminus-block">
+                    <p>
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="32"
+                        height="32"
+                        fill="currentColor"
+                        class="bi bi-dash-square"
+                        viewBox="0 0 16 16"
+                        id="picto-size-moins"
+                      >
+                        <path
+                          d="M14 1a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h12zM2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2z"
+                        />
+                        <path
+                          d="M4 8a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7A.5.5 0 0 1 4 8z"
+                        />
+                      </svg>
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="32"
+                        height="32"
+                        fill="currentColor"
+                        class="bi bi-plus-square"
+                        viewBox="0 0 16 16"
+                        id="picto-size-plus"
+                      >
+                        <path
+                          d="M14 1a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h12zM2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2z"
+                        />
+                        <path
+                          d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z"
+                        />
+                      </svg>
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- tab : TEXTES -->
+              <div id="texte" class="tabSec">
+                <div>
+                  <p>
+                    Appliquer à
+                    <select id="text-layer-id">
+                      <option value="11">Titre du badge</option>
+                      <option value="31">Thème</option>
+                      <option value="42">Posture</option>
+                    </select>
+                  </p>
+                  <p>
+                    <label for="texte_badge_caption">Texte</label>
+                    <input type="text" id="texte_badge_caption" value="" />
+
+                    <label for="texte_badge_taille">Taille</label>
+                    <input
+                      type="number"
+                      id="texte_badge_taille"
+                      class="taille"
+                      value="35"
+                      required
+                    />
+                  </p>
+                  <p>
+                    <label for="texte_badge_caption2">Texte 2e ligne</label>
+                    <input type="text" id="texte_badge_caption2" value="" />
+                  </p>
+
+                  <div class="commands-container">
+                    <div class="arrows-block">
+                      <p class="arrow-top">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="32"
+                          height="32"
+                          fill="currentColor"
+                          class="bi bi-arrow-up-square-fill text-position-arrow"
+                          viewBox="0 0 16 16"
+                          data-stepx="0"
+                          data-stepy="-5"
+                        >
+                          <path
+                            d="M2 16a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2zm6.5-4.5V5.707l2.146 2.147a.5.5 0 0 0 .708-.708l-3-3a.5.5 0 0 0-.708 0l-3 3a.5.5 0 1 0 .708.708L7.5 5.707V11.5a.5.5 0 0 0 1 0z"
+                          />
+                        </svg>
+                      </p>
+                      <p>
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="32"
+                          height="32"
+                          fill="currentColor"
+                          class="bi bi-arrow-left-square-fill text-position-arrow"
+                          viewBox="0 0 16 16"
+                          data-stepx="-5"
+                          data-stepy="0"
+                        >
+                          <path
+                            d="M16 14a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12zm-4.5-6.5H5.707l2.147-2.146a.5.5 0 1 0-.708-.708l-3 3a.5.5 0 0 0 0 .708l3 3a.5.5 0 0 0 .708-.708L5.707 8.5H11.5a.5.5 0 0 0 0-1z"
+                          />
+                        </svg>
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="32"
+                          height="32"
+                          fill="currentColor"
+                          class="bi bi-arrow-right-square-fill text-position-arrow"
+                          viewBox="0 0 16 16"
+                          data-stepx="5"
+                          data-stepy="0"
+                        >
+                          <path
+                            d="M0 14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2a2 2 0 0 0-2 2v12zm4.5-6.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5a.5.5 0 0 1 0-1z"
+                          />
+                        </svg>
+                      </p>
+                      <p class="arrow-bottom">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="32"
+                          height="32"
+                          fill="currentColor"
+                          class="bi bi-arrow-down-square-fill text-position-arrow"
+                          viewBox="0 0 16 16"
+                          data-stepx="0"
+                          data-stepy="5"
+                        >
+                          <path
+                            d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm6.5 4.5v5.793l2.146-2.147a.5.5 0 0 1 .708.708l-3 3a.5.5 0 0 1-.708 0l-3-3a.5.5 0 1 1 .708-.708L7.5 10.293V4.5a.5.5 0 0 1 1 0z"
+                          />
+                        </svg>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div>
+            <div id="badge-bloc">
+              <div id="badge-modifiable"></div>
+              <div id="download">
+                <p>
+                  Téléchargez
+                  <a href="#" id="dl-link-png">en *.PNG</a> ou
+                  <a href="#" id="dl-link-svg">en *.SVG</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </main>
+        <footer>
+          <div id="footer-content">
+            <div class="bloc-logos">
+              <img
+                src="./img/logo_canope14.png"
+                alt="logo Canopé"
+                class="footer-logo"
+              />
+              <img
+                src="./img/Logo_cran_noir.svg"
+                alt="logo CRAN"
+                class="footer-logo"
+              />
+              <img
+                src="./img/logo_chambre_metier_artisanat_normandie.svg"
+                alt="logo Chambre des métiers"
+                class="footer-logo"
+              />
+              <img
+                src="./img/logo-region-normandie-noir.svg"
+                alt="logo Region"
+                class="footer-logo"
+              />
+              <img
+                src="./img/europe_noir.svg"
+                alt="logo Europe"
+                class="footer-logo"
+              />
+              <img
+                src="./img/logo_dome_noir.svg"
+                alt="logo Dôme"
+                class="footer-logo"
+              />
+            </div>
+          </div>
+        </footer>
+      </div>
+    </div>
+
+    <!-- initialize -->
+    <script>
+      var templateId = OpenBadgeCreator.getParameterByName("id");
+
+      function createCustomBadge() {
+        var customBadge = new CustomBadge(
+          templateId,
+          "./models/" + templateId + ".svg",
+          "badge-modifiable"
+        ).then((customBadge) => {
+          window.customBadge = customBadge;
+          console.info("customBadge creation success");
+          customBadge.initialize();
+          document
+            .getElementById("text-layer-id")
+            .dispatchEvent(new Event("change"));
+          document
+            .getElementById("picto-layer-id")
+            .dispatchEvent(new Event("change"));
+        });
+      }
+
+      async function loadPictos() {
+        fetch("./pictograms/pictograms.json")
+          .then((response) => response.json())
+          .then((pictos) => {
+            var pictosList = document.getElementById("pictos");
+            var pictosTabNav = document.createElement("nav");
+            pictosTabNav.className = "tabNavPicto";
+            var pictosTabCon = document.createElement("div");
+            pictosTabCon.className = "tabConPicto";
+            var tabNum = 0;
+            for (var key in pictos) {
+              if (pictos.hasOwnProperty(key)) {
+                var newTabNav = document.createElement("div");
+                newTabNav.className = "tabItemPicto";
+                newTabNav.innerHTML = key;
+                pictosTabNav.appendChild(newTabNav);
+
+                var newTabCon = document.createElement("div");
+                newTabCon.className =
+                  tabNum === 0 ? "tabSecPicto active" : "tabSecPicto";
+                newTabCon.id = "picto-type-" + tabNum;
+                for (var i = 0; i < pictos[key].length; i++) {
+                  var picto = document.createElement("img");
+                  picto.className = "picto-svg";
+                  picto.id = "picto-" + pictos[key][i];
+                  picto.setAttribute(
+                    "src",
+                    "./pictograms/" + pictos[key][i] + ".svg"
+                  );
+                  picto.style.width = "40px";
+                  picto.addEventListener("click", function (e) {
+                    customBadge.setPicto(
+                      OpenBadgeCreator.ui.pictoLevel,
+                      e.target.src
+                    );
+                  });
+                  newTabCon.appendChild(picto);
+                }
+                pictosTabCon.appendChild(newTabCon);
+                tabNum++;
+              }
+            }
+            pictosList.appendChild(pictosTabNav);
+            pictosList.appendChild(pictosTabCon);
+            tabsPicto.init();
+          })
+          .catch((error) => {
+            console.error("Error fetching pictos:", error);
+          });
+      }
+
+      function addListeners() {
+        // colors
+        document
+          .getElementById("couleur_1")
+          .addEventListener("change", function (e) {
+            var color = e.target.value;
+            customBadge.setColor(10, color);
+            customBadge.setColor(11, color);
+          });
+        document
+          .getElementById("couleur_2")
+          .addEventListener("change", function (e) {
+            var color = e.target.value;
+            customBadge.setColor(40, color);
+            customBadge.setColor(41, color);
+            customBadge.setColor(42, color);
+          });
+        document
+          .getElementById("couleur_3")
+          .addEventListener("change", function (e) {
+            var color = e.target.value;
+            customBadge.setColor(20, color);
+            customBadge.setColor(21, color);
+            customBadge.setColor(22, color);
+          });
+        document
+          .getElementById("couleur_4")
+          .addEventListener("change", function (e) {
+            var color = e.target.value;
+            customBadge.setColor(30, color);
+            customBadge.setColor(31, color);
+            customBadge.setColor(32, color);
+            customBadge.setColor(33, color);
+            customBadge.setColor(34, color);
+          });
+        // magic color schemes
+        document
+          .getElementById("magic-scheme-soft")
+          .addEventListener("click", function (e) {
+            generateRandomColorScheme("soft");
+          });
+        document
+          .getElementById("magic-scheme-pastel")
+          .addEventListener("click", function (e) {
+            generateRandomColorScheme("pastel");
+          });
+        document
+          .getElementById("magic-scheme-normal")
+          .addEventListener("click", function (e) {
+            generateRandomColorScheme("default");
+          });
+        document
+          .getElementById("magic-scheme-hard")
+          .addEventListener("click", function (e) {
+            generateRandomColorScheme("hard");
+          });
+        // DL link
+        document
+          .getElementById("dl-link-png")
+          .addEventListener("click", function (e) {
+            customBadge.saveAsPng();
+          });
+        // size setter
+        var sizeSetterPlus = document.getElementById("picto-size-plus");
+        sizeSetterPlus.addEventListener("click", function (e) {
+          customBadge.changeSize(OpenBadgeCreator.ui.pictoLevel, 10);
+        });
+        var sizeSetterMoins = document.getElementById("picto-size-moins");
+        sizeSetterMoins.addEventListener("click", function (e) {
+          customBadge.changeSize(OpenBadgeCreator.ui.pictoLevel, -10);
+        });
+        // position
+        var pictoArrows = document.getElementsByClassName("picto-arrow");
+        for (var i = 0; i < pictoArrows.length; i++) {
+          pictoArrows[i].addEventListener("click", function (e) {
+            customBadge.changePosition(
+              OpenBadgeCreator.ui.pictoLevel,
+              e.target.dataset.stepx,
+              e.target.dataset.stepy
+            );
+          });
+        }
+        // text
+        var texteTexte = document.getElementById("texte_badge_caption");
+        var texteTaille = document.getElementById("texte_badge_taille");
+        var texte2Texte = document.getElementById("texte_badge_caption2");
+        var modifiedText = document.getElementById("text-layer-id");
+        function updateText() {
+          var caption = texteTexte.value;
+          var caption2 = texte2Texte.value;
+          var fontSize = texteTaille.value;
+          if (fontSize < 1) {
+            fontSize = 1;
+            texteTaille.value = 1;
+          }
+          if (fontSize > 100) {
+            fontSize = 100;
+            texteTaille.value = 100;
+          }
+          customBadge.setText(modifiedText.value, [caption, caption2], {
+            size: fontSize,
+          });
+        }
+        texteTexte.addEventListener("keyup", updateText);
+        texte2Texte.addEventListener("keyup", updateText);
+        texteTaille.addEventListener("change", updateText);
+        modifiedText.addEventListener("change", function (e) {
+          var defaultSize = customBadge.layers[e.target.value].font.size;
+          var defaultCaption1 = customBadge.layers[e.target.value].font
+            .captions[0]
+            ? customBadge.layers[e.target.value].font.captions[0]
+            : "";
+          var defaultCaption2 = customBadge.layers[e.target.value].font
+            .captions[1]
+            ? customBadge.layers[e.target.value].font.captions[1]
+            : "";
+          texteTaille.value = defaultSize;
+          texteTexte.value = defaultCaption1;
+          texte2Texte.value = defaultCaption2;
+        });
+        document.getElementsByClassName("text-position-arrow").forEach((el) => {
+          el.addEventListener("click", function (e) {
+            customBadge.changePosition(
+              modifiedText.value,
+              this.dataset.stepx,
+              this.dataset.stepy
+            );
+          });
+        });
+        // pictos
+        var modifiedPicto = document.getElementById("picto-layer-id");
+        modifiedPicto.addEventListener("change", function (e) {
+          OpenBadgeCreator.update("pictoLevel", e.target.value);
+        });
+        document
+          .getElementsByClassName("picto-position-arrow")
+          .forEach((el) => {
+            el.addEventListener("click", function (e) {
+              customBadge.changePosition(
+                modifiedPicto.value,
+                this.dataset.stepx,
+                this.dataset.stepy
+              );
+            });
+          });
+        // custom picto loader
+        document
+          .getElementById("image_perso")
+          .addEventListener("change", function (e) {
+            renderCustomPicto(this.files[0]);
+          });
+        document
+          .getElementById("image_perso_raster")
+          .addEventListener("change", function (e) {
+            renderCustomPictoRaster(this.files[0]);
+          });
+      }
+
+      function renderCustomPicto(file) {
+        var reader = new FileReader();
+        reader.onload = function (event) {
+          var svgContent = event.target.result;
+          var parser = new DOMParser();
+          const customDocument = parser.parseFromString(
+            svgContent,
+            "text/html"
+          );
+          const customPictoSvg = customDocument.getElementsByTagName("svg")[0];
+          var picto = SVG(customPictoSvg);
+          var pictoEl = SVG(document.getElementById("image_perso_display"));
+          pictoEl.clear().put(picto).size(40, 40);
+          var customPicto = document.getElementById("image_perso_display");
+          customPicto.addEventListener("click", function (e) {
+            var customPicto = document.getElementById("image_perso_display");
+            var customPictoSvg = customPicto.querySelector("svg").outerHTML;
+            customBadge.setPictoContent(
+              OpenBadgeCreator.ui.pictoLevel,
+              customPictoSvg
+            );
+          });
+        };
+        reader.readAsText(file);
+      }
+      function renderCustomPictoRaster(file) {
+        if (file.type && file.type.indexOf("image") === -1) {
+          console.log("File is not an image.", file.type, file);
+          return;
+        }
+        const size = file.size ? file.size : 0;
+        if (size > 1000000) {
+          var newP = document.createElement("p");
+          newP.style = "color: red;";
+          var newContent = document.createTextNode(
+            "Le fichier image ne doit pas dépasser 1Mo"
+          );
+          newP.appendChild(newContent);
+          document
+            .getElementById("image_perso_raster_display")
+            .appendChild(newP);
+        }
+        var reader = new FileReader();
+        reader.onload = function (event) {
+          var imageSrc = event.target.result;
+          var newImg = document.createElement("img");
+          newImg.src = imageSrc;
+          newImg.width = "100";
+          newImg.id = "image_perso_raster_img";
+          var customPictoRaster = document.getElementById(
+            "image_perso_raster_display"
+          );
+          customPictoRaster.innerHTML = "";
+          customPictoRaster.appendChild(newImg);
+          customPictoRaster.addEventListener("click", function (e) {
+            var customPictoImg = document.getElementById(
+              "image_perso_raster_img"
+            ).src;
+            customBadge.setPictoContentImage(
+              OpenBadgeCreator.ui.pictoLevel,
+              customPictoImg
+            );
+          });
+        };
+        reader.readAsDataURL(file);
+      }
+
+      function generateRandomColorScheme(schemeType = "soft") {
+        const randomHue = Math.floor(Math.random() * 359);
+        var scheme = new ColorScheme();
+        scheme.from_hue(randomHue).scheme("contrast").variation(schemeType);
+        var colors = scheme.colors();
+        const color1 = document.getElementById("couleur_1");
+        color1.value = "#" + colors[0];
+        color1.dispatchEvent(new CustomEvent("change", { bubbles: true }));
+        const color2 = document.getElementById("couleur_2");
+        color2.value = "#" + colors[1];
+        color2.dispatchEvent(new CustomEvent("change", { bubbles: true }));
+        const color3 = document.getElementById("couleur_3");
+        color3.value = "#" + colors[4];
+        color3.dispatchEvent(new CustomEvent("change", { bubbles: true }));
+        const color4 = document.getElementById("couleur_4");
+        color4.value = "#" + colors[5];
+        color4.dispatchEvent(new CustomEvent("change", { bubbles: true }));
+      }
+
+      function ready(fn) {
+        if (document.readyState != "loading") {
+          createCustomBadge();
+          loadPictos();
+          addListeners();
+          tabs.init();
+        } else {
+          document.addEventListener("DOMContentLoaded", createCustomBadge);
+          document.addEventListener("DOMContentLoaded", loadPictos);
+          document.addEventListener("DOMContentLoaded", addListeners);
+          document.addEventListener("DOMContentLoaded", tabs.init);
+        }
+      }
+      ready();
+    </script>
+  </body>
+</html>

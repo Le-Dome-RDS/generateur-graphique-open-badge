@@ -1,0 +1,15 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg" id="cloud" enable-background="new 0 0 24 24" viewBox="0 0 24 24" version="1.1">
+   <title id="title1605">cloud</title>
+   <path id="path2" d="m 12.808333,4.4923333 c -0.238,0 -0.467,0.038 -0.682,0.107 0.025,-0.139 0.04,-0.281 0.04,-0.427 0,-1.237 -1.002,-2.239 -2.2379997,-2.239 -0.56,0 -1.069,0.207 -1.462,0.545 -0.437,-1.248 -1.62,-2.14499996 -3.018,-2.14499996 -1.767,0 -3.199,1.43199996 -3.199,3.19899996 0,0.337 0.053,0.663 0.149,0.967 -1.154,0.089 -2.06499996,1.053 -2.06499996,2.23 0,1.237 1.00199996,2.24 2.23799996,2.24 H 12.807333 c 1.236,0 2.238,-1.002 2.238,-2.24 0.001,-1.234 -1,-2.237 -2.237,-2.237 z" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.5" stroke="currentColor" fill="none" />
+   <path id="path4" d="m 2.3993333,4.5003333 c 0.059,-0.005 0.114,-0.007 0.173,-0.007 0.434,0 0.841,0.124 1.184,0.337" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.5" stroke="currentColor" fill="none" />
+   <path id="path6" d="m 8.4723333,2.4783333 c 0.082,0.233 0.138,0.48 0.161,0.735" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.5" stroke="currentColor" fill="none" />
+   <path id="path8" d="m 12.129333,4.6003333 c -0.051,0.261 -0.147,0.507 -0.281,0.727" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.5" stroke="currentColor" fill="none" />
+   <line id="line10" y2="11.529334" x2="7.6903329" y1="8.9713335" x1="7.6903329" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.5" stroke="currentColor" fill="none" />
+   <circle id="circle12" r="0.95899999" cy="12.489333" cx="7.6913333" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.5" stroke="currentColor" fill="none" />
+   <line id="line14" y2="12.489333" x2="2.8913331" y1="12.489333" x1="6.7313333" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.5" stroke="currentColor" fill="none" />
+   <line id="line16" y2="12.489333" x2="8.6503334" y1="12.489333" x1="12.488334" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.5" stroke="currentColor" fill="none" />
+</svg>

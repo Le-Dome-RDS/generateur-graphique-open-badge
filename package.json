@@ -1,0 +1,68 @@
+{
+  "name": "generateur-graphique-open-badge",
+  "description": "Générateur graphique d'open badge",
+  "version": "0.3.0",
+  "maintainers": [
+    {
+      "name": "Le Dôme",
+      "email": "slebrun@ledome.info",
+      "web": "http://ledome.info/"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Incaya",
+      "email": "thomas.maziere@incaya.fr",
+      "web": "https://www.incaya.fr"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/Le-Dome-RDS/generateur-graphique-open-badge.git"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "GPL",
+      "url": "http://www.gnu.org/licenses/gpl-3.0.html"
+    }
+  ],
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "dom-to-image": "^2.6.0",
+    "file-saver": "^2.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "react-tooltip": "^4.2.11",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
