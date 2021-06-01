@@ -60,7 +60,7 @@ Quelques conseils :
 
 ### Fontes
 
-Pour pouvoir télécharger une image png avec la bonne fonte, celle-ci doit également être installée sur le poste de l'utilisateur.
+~~Pour pouvoir télécharger une image png avec la bonne fonte, celle-ci doit également être installée sur le poste de l'utilisateur.~~
 
 ## Licence
 
