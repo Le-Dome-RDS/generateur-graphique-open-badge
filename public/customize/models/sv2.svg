@@ -14,11 +14,10 @@
     </rdf:RDF>
   </metadata>
   <defs id="defs1339" />
-  <!-- <g id="layer14">
-    <g style="display:inline;fill:#ffffff;stroke:none" transform="translate(-0.84281,0.04707)" id="filet_3_posture">
-      <path fill="none" stroke="#019db8" stroke-width="6" stroke-miterlimit="10" d="m 421.113,743.382 c -163.399,0 -296.299,-132.9 -296.299,-296.256 0,-163.358 132.9,-296.258 296.299,-296.258 163.381,0 296.285,132.9 296.285,296.258 0,163.355 -138.236,296.256 -296.285,296.256 z" id="path190-3" style="fill:#ffffff;stroke:none" />
-    </g>
-  </g> -->
+  <g>
+    <path fill="#ffffff" stroke="#019db8" stroke-width="6" stroke-miterlimit="10" d="m 421.113,743.382 c -163.399,0 -296.299,-132.9 -296.299,-296.256 0,-163.358 132.9,-296.258 296.299,-296.258 163.381,0 296.285,132.9 296.285,296.258 0,163.355 -138.236,296.256 -296.285,296.256 z" id="path190-3" />
+  </g>
+
   <g id="layer13" style="display:inline">
     <g style="display:inline" transform="translate(-0.8428056,0.04707)" id="texte_posture">
       <g id="g30">

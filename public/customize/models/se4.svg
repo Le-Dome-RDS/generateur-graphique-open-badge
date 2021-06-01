@@ -124,13 +124,11 @@
       </g>
     </g>
   </g>
-  <!-- <g id="layer1">
-    <g style="display:inline;fill:#ffffff;stroke:none" id="filet_3_posture" transform="translate(73.49001,25.89699)">
+  <g id="layer1">
       <g id="g180-5" style="fill:#ffffff;stroke:none">
-        <path id="path178-0" d="M 592.015,204.163 C 533.901,149.957 455.982,116.77 370.261,116.77 c -85.723,0 -163.641,33.187 -221.744,87.393 -11.891,11.699 -16.655,24.215 -16.655,46.111 v 326.305 c 0,21.887 4.765,34.42 16.655,46.126 58.104,54.188 136.021,87.374 221.744,87.374 85.721,0 163.64,-33.186 221.754,-87.374 11.896,-11.706 16.643,-24.239 16.643,-46.126 V 250.274 c 0,-21.896 -4.746,-34.412 -16.643,-46.111 z" stroke-miterlimit="10" stroke-width="18" stroke="#009eb9" fill="none" clip-rule="evenodd" fill-rule="evenodd" style="fill:#ffffff;stroke:none" />
+        <path transform="translate(73.49001,25.89699)" id="path178-0" d="M 592.015,204.163 C 533.901,149.957 455.982,116.77 370.261,116.77 c -85.723,0 -163.641,33.187 -221.744,87.393 -11.891,11.699 -16.655,24.215 -16.655,46.111 v 326.305 c 0,21.887 4.765,34.42 16.655,46.126 58.104,54.188 136.021,87.374 221.744,87.374 85.721,0 163.64,-33.186 221.754,-87.374 11.896,-11.706 16.643,-24.239 16.643,-46.126 V 250.274 c 0,-21.896 -4.746,-34.412 -16.643,-46.111 z" stroke-miterlimit="10" stroke-width="18" stroke="#009eb9" fill="none" clip-rule="evenodd" fill-rule="evenodd" style="fill:#ffffff;stroke:none" />
       </g>
-    </g>
-  </g> -->
+  </g>
   <g id="layer25" style="display:inline">
     <g style="display:inline" id="filet_separation_theme" transform="translate(73.490003,25.89699)">
       <line id="line37" y2="627.987" x2="373.047" y1="590.20398" x1="373.047" stroke-miterlimit="10" stroke-width="2" stroke="#000000" fill="none" />

@@ -39,11 +39,9 @@
       </g>
     </g>
   </g>
-  <!-- <g id="layer18">
-    <g id="filet_3_posture" transform="translate(-0.85381,-0.16499)" style="display:inline;fill:#ffffff;stroke:none">
+  <g id="layer18">
       <path id="path202-2" d="m 421.125,745.642 c -163.399,0 -296.299,-132.9 -296.299,-296.258 0,-163.358 132.9,-296.258 296.299,-296.258 163.381,0 296.284,132.9 296.284,296.258 0,163.358 -132.904,296.258 -296.284,296.258 z" stroke-miterlimit="10" stroke-width="27" stroke="#019db8" fill="none" style="fill:#ffffff;stroke:none" />
-    </g>
-  </g> -->
+  </g>
   <g style="display:inline" id="layer12">
     <g id="filet_separation_theme" transform="translate(-0.85381069,-0.16499486)" style="display:inline">
       <line id="line39" y2="662.22198" x2="422.362" y1="624.43799" x1="422.362" stroke-miterlimit="10" stroke-width="2" stroke="#1e1e1c" fill="none" />

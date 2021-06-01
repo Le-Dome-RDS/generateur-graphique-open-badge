@@ -101,11 +101,9 @@
       </g>
     </g>
   </g>
-  <!-- <g id="layer1" transform="translate(20)">
-    <g style="display:inline;fill:#ffffff;stroke:none" id="filet_3_posture" transform="translate(-1.18601,34.28187)">
-      <path id="path150-4" d="m 426.33,701.628 c -4.464,0 -7.848,-1.037 -9.525,-2.008 L 176.458,560.861 c -4.631,-2.679 -9.536,-11.168 -9.536,-16.518 V 266.822 c 0,-5.35 4.905,-13.839 9.536,-16.513 L 416.797,111.55 c 1.678,-0.971 5.063,-2.007 9.533,-2.007 4.47,0 7.855,1.037 9.532,2.003 l 240.343,138.759 c 4.636,2.678 9.533,11.168 9.533,16.518 v 277.521 c 0,5.35 -4.897,13.839 -9.533,16.514 L 435.87,699.616 c -1.684,0.975 -5.069,2.012 -9.54,2.012 z" stroke-miterlimit="10" stroke-width="3" stroke="#009eb9" fill="none" style="fill:#ffffff;stroke:none" />
-    </g>
-  </g> -->
+  <g id="layer1" transform="translate(20)">
+      <path transform="translate(-1.18601,34.28187)" id="path150-4" d="m 426.33,701.628 c -4.464,0 -7.848,-1.037 -9.525,-2.008 L 176.458,560.861 c -4.631,-2.679 -9.536,-11.168 -9.536,-16.518 V 266.822 c 0,-5.35 4.905,-13.839 9.536,-16.513 L 416.797,111.55 c 1.678,-0.971 5.063,-2.007 9.533,-2.007 4.47,0 7.855,1.037 9.532,2.003 l 240.343,138.759 c 4.636,2.678 9.533,11.168 9.533,16.518 v 277.521 c 0,5.35 -4.897,13.839 -9.533,16.514 L 435.87,699.616 c -1.684,0.975 -5.069,2.012 -9.54,2.012 z" stroke-miterlimit="10" stroke-width="3" stroke="#009eb9" fill="none" style="fill:#ffffff;stroke:none" />    
+  </g>
   <g style="display:inline" id="layer25" transform="translate(20)">
     <g style="display:inline" id="filet_separation_theme" transform="translate(-1.1860071,34.281873)">
       <line id="line31" y2="612.71503" x2="424.797" y1="574.93201" x1="424.797" stroke-miterlimit="10" stroke-width="2" stroke="#000000" fill="none" />

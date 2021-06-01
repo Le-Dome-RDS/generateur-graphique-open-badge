@@ -102,13 +102,11 @@
       <stop offset="1" style="stop-color:#473467" id="stop118-3" />
     </linearGradient>
   </defs>
-  <!-- <g id="layer1" style="display:inline">
-    <g id="filet_3_posture" style="display:inline;fill:#ffffff;stroke:none;stroke-width:1" transform="translate(77.912,33.81327)">
+  <g id="layer1" style="display:inline">
       <g id="g160-9" style="fill:#ffffff;stroke:none;stroke-width:1">
-        <path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#009eb9" stroke-width="5.99998" stroke-miterlimit="10" d="m 586.382,200.222 c -58.115,-54.207 -136.035,-87.393 -221.755,-87.393 -85.722,0 -163.64,33.186 -221.744,87.393 -11.891,11.699 -16.655,24.214 -16.655,46.111 v 326.304 c 0,21.887 4.765,34.42 16.655,46.127 58.104,54.188 136.021,87.373 221.744,87.373 85.72,0 163.64,-33.186 221.755,-87.373 11.896,-11.707 16.643,-24.24 16.643,-46.127 V 246.333 c 0,-21.897 -4.747,-34.412 -16.643,-46.111 z" id="path158-6" style="fill:#ffffff;stroke:none" />
+        <path transform="translate(77.912,33.81327)" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#009eb9" stroke-width="5.99998" stroke-miterlimit="10" d="m 586.382,200.222 c -58.115,-54.207 -136.035,-87.393 -221.755,-87.393 -85.722,0 -163.64,33.186 -221.744,87.393 -11.891,11.699 -16.655,24.214 -16.655,46.111 v 326.304 c 0,21.887 4.765,34.42 16.655,46.127 58.104,54.188 136.021,87.373 221.744,87.373 85.72,0 163.64,-33.186 221.755,-87.373 11.896,-11.707 16.643,-24.24 16.643,-46.127 V 246.333 c 0,-21.897 -4.747,-34.412 -16.643,-46.111 z" id="path158-6" style="fill:#ffffff;stroke:none" />
       </g>
-    </g>
-  </g> -->
+  </g>
   <g id="layer25" style="display:inline">
     <g id="filet_separation_theme" style="display:inline;stroke-width:1" transform="translate(77.912,33.81327)">
       <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="368.414" y1="585.625" x2="368.414" y2="623.40802" id="line51" />
