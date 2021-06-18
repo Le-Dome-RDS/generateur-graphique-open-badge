@@ -73,7 +73,7 @@ Voir le fichier [LICENSE](https://github.com/Le-Dome-RDS/generateur-graphique-op
 - [Le Dôme](http://www.ledome.info)
 - [INCAYA](https://www.incaya.fr)
 
-## Partenaires du projet
+## Liste des partenaires du projet
 
 - Réseau Canopé 14
 - Chambre régionale d'agriculture de Normandie
