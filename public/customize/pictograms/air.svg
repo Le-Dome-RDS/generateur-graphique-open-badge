@@ -1,0 +1,55 @@
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 6.3499999 6.3500002"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g2940"
+       transform="translate(-0.0253143,0.06219981)"
+       style="stroke:currentColor">
+      <path
+         style="fill:none;stroke:currentColor;stroke-width:0.196328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         id="path678"
+         d="m 2.0812538,1.4832911 c 0,-0.078531 -0.039265,-0.1177958 -0.039265,-0.1963264 0,-0.43191819 0.3533875,-0.78530572 0.7853055,-0.78530572 0.4319182,0 0.7853058,0.35338753 0.7853058,0.78530572 0,0.4319181 -0.3533876,0.7853056 -0.7853058,0.7853056 H 0.23578559"
+         class="st0" />
+      <path
+         style="fill:none;stroke:currentColor;stroke-width:0.196328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         id="path680"
+         d="m 3.8089263,4.7423093 c 0,0.078532 -0.039265,0.1177958 -0.039265,0.1963264 0,0.4319182 0.3533876,0.7853057 0.7853057,0.7853057 0.4319182,0 0.7853057,-0.3533875 0.7853057,-0.7853057 0,-0.431918 -0.3533875,-0.7853056 -0.7853057,-0.7853056 H 1.4922753"
+         class="st0" />
+      <line
+         style="fill:none;stroke:currentColor;stroke-width:0.196328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         id="line682"
+         y2="3.0931647"
+         x2="1.884925"
+         y1="3.0931647"
+         x1="0.90329307"
+         class="st0" />
+      <path
+         style="fill:none;stroke:currentColor;stroke-width:0.196328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         id="path684"
+         d="m 2.8272942,3.0931676 h 2.3951822 c 0.5497139,0 0.9423666,-0.431918 0.9423666,-0.9423668 0,-0.5497138 -0.431918,-0.9423668 -0.9423666,-0.9423668 -0.549714,0 -0.9423668,0.4319181 -0.9423668,0.9423668"
+         class="st0" />
+    </g>
+  </g>
+</svg>
