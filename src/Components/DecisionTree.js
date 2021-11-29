@@ -120,7 +120,7 @@ class DecisionTree extends React.Component {
                           <div className="badge">
                             {this.state.activeLevel === 2 && answers[1] === o1.id && selectedBadgeId && (
                               <a
-                                href={`${process.env.PUBLIC_URL}customize/index.html?id=${selectedBadgeId.toLowerCase()}`}
+                                href={`${process.env.PUBLIC_URL}/customize/index.html?id=${selectedBadgeId.toLowerCase()}`}
                               >
                                 <Suspense fallback={<div>Loading...</div>}>
                                   <MyBadge />
@@ -173,7 +173,7 @@ class DecisionTree extends React.Component {
                                 <div className="badge">
                                   {showBadge && answers[2] === o2.id && (
                                     <a
-                                      href={`${process.env.PUBLIC_URL}customize/index.html?id=${selectedBadgeId.toLowerCase()}`}
+                                      href={`${process.env.PUBLIC_URL}/customize/index.html?id=${selectedBadgeId.toLowerCase()}`}
                                     >
                                       <Suspense
                                         fallback={<div>Loading...</div>}

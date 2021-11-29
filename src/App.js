@@ -21,7 +21,7 @@ import Questions from "./Questions";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/generateur">
       <div className="App">
         <div style={{ display: "flex", flexDirection: "column" }}>
           <header>

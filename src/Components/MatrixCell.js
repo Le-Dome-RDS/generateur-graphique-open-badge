@@ -11,7 +11,7 @@ class MatrixCell extends React.Component {
     const { badgeId, tooltipText } = this.props;
     return (
       <div className="matrix-choice" data-tip={tooltipText} data-effect="solid">
-        <a href={`${process.env.PUBLIC_URL}customize/index.html?id=${badgeId}`}>
+        <a href={`${process.env.PUBLIC_URL}/customize/index.html?id=${badgeId}`}>
           {this.props.children}
           <ReactTooltip multiline />
         </a>

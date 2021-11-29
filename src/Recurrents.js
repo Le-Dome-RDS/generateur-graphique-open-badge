@@ -12,7 +12,7 @@ function Recurrents() {
       </p>
       <div className="blocks-row">
         <div className="recurrent-choice">
-          <a href={process.env.PUBLIC_URL + "customize/index.html?id=pc2"}>
+          <a href={process.env.PUBLIC_URL + "/customize/index.html?id=pc2"}>
             <p>
               Reconnaître l'entrée dans un parcours de formation de découverte,
               d'apprentissage
@@ -21,7 +21,7 @@ function Recurrents() {
           </a>
         </div>
         <div className="recurrent-choice">
-          <a href={process.env.PUBLIC_URL + "customize/index.html?id=xp3"}>
+          <a href={process.env.PUBLIC_URL + "/customize/index.html?id=xp3"}>
             <p>
               Reconnaitre la participation à une session de formation, une
               expérience, un événement
@@ -30,43 +30,43 @@ function Recurrents() {
           </a>
         </div>
         <div className="recurrent-choice">
-          <a href={process.env.PUBLIC_URL + "customize/index.html?id=sv2"}>
+          <a href={process.env.PUBLIC_URL + "/customize/index.html?id=sv2"}>
             <p>Reconnaitre une initiation, un test d'un savoir</p>
             <Sv2 />
           </a>
         </div>
         <div className="recurrent-choice">
-          <a href={process.env.PUBLIC_URL + "customize/index.html?id=sv5"}>
+          <a href={process.env.PUBLIC_URL + "/customize/index.html?id=sv5"}>
             <p>Reconnaître la capacité à transmettre un savoir</p>
             <Sv5 />
           </a>
         </div>
         <div className="recurrent-choice">
-          <a href={process.env.PUBLIC_URL + "customize/index.html?id=sf2"}>
+          <a href={process.env.PUBLIC_URL + "/customize/index.html?id=sf2"}>
             <p>Reconnaître une initiation, un test, un savoir faire</p>
             <Sf2 />
           </a>
         </div>
         <div className="recurrent-choice">
-          <a href={process.env.PUBLIC_URL + "customize/index.html?id=sf5"}>
+          <a href={process.env.PUBLIC_URL + "/customize/index.html?id=sf5"}>
             <p>Reconnaître la capacité à transmettre un savoir faire</p>
             <Sf5 />
           </a>
         </div>
         <div className="recurrent-choice">
-          <a href={process.env.PUBLIC_URL + "customize/index.html?id=gp4"}>
+          <a href={process.env.PUBLIC_URL + "/customize/index.html?id=gp4"}>
             <p>Reconnaître l'engagement actif dans une communauté apprenante</p>
             <Gp4 />
           </a>
         </div>
         <div className="recurrent-choice">
-          <a href={process.env.PUBLIC_URL + "customize/index.html?id=cp4"}>
+          <a href={process.env.PUBLIC_URL + "/customize/index.html?id=cp4"}>
             <p>Reconnaître la pratique amateure</p>
             <Cp4 />
           </a>
         </div>
         <div className="recurrent-choice">
-          <a href={process.env.PUBLIC_URL + "customize/index.html?id=cp5"}>
+          <a href={process.env.PUBLIC_URL + "/customize/index.html?id=cp5"}>
             <p>
               Reconnaître la capacité à transmettre une pratique associant
               savoir, savoir faire et savoir être
@@ -75,7 +75,7 @@ function Recurrents() {
           </a>
         </div>
         <div className="recurrent-choice">
-          <a href={process.env.PUBLIC_URL + "customize/index.html?id=pc4"}>
+          <a href={process.env.PUBLIC_URL + "/customize/index.html?id=pc4"}>
             <p>
               Se créer un badge de rêve ou reconnaître l'aboutissement d'un
               parcours individuel
