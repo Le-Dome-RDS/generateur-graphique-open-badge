@@ -1,0 +1,50 @@
+<svg id="espace" enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="40" height="40"
+    xmlns="http://www.w3.org/2000/svg">
+    <title>espace</title>
+ <ellipse
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     cx="7.5837812"
+     cy="7.3515372"
+     id="circle918"
+     rx="4.6765456"
+     ry="4.6714826"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="M 11.392399,3.3385021 C 13.168949,2.6739905 14.460434,2.5121888 14.765332,3.019225 15.31103,3.9199498 12.535766,6.5883796 8.5686288,8.9816596 4.6023568,11.37494 0.9453128,12.584559 0.4004808,11.683834 0.0929848,11.175068 0.8491668,10.098697 2.2801088,8.8276456"
+     id="path920"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <ellipse
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     cx="10.565187"
+     cy="0.96686268"
+     id="circle922"
+     rx="0.63404912"
+     ry="0.63336265"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 5.8150188,4.7324189 c 0.504988,-0.3409083 1.113917,-0.5399154 1.768755,-0.5399154 1.091396,0 2.053729,0.5528942 2.6210822,1.3930511"
+     id="path924"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+</svg>

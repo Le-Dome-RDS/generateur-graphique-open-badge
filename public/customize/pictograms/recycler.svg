@@ -1,0 +1,34 @@
+<svg id="recycler" enable-background="new 0 0 24 24" viewBox="0 0 24 24"
+    xmlns="http://www.w3.org/2000/svg">
+    <title>recycler</title>
+ <path
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 4.2398331,10.415063 h 2.160014 v 2.880597 h -3.019794 c -0.505939,0 -0.972798,-0.274644 -1.217846,-0.717244 -0.236598,-0.425699 -0.233429,-0.943298 0.0074,-1.366884 L 4.0127481,7.973897 4.8651341,8.44713 3.9303611,5.184143 0.66657602,6.11899 1.4936131,6.577435 0.48384602,8.392201 c -0.200686,0.36232 -0.200686,0.802807 0,1.166183 l 1.68681708,3.036933"
+     id="path178"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 11.746539,8.975292 -1.015048,-1.827441 2.487448,-1.45139 1.433319,2.578488 c 0.241879,0.436262 0.241879,0.964425 0,1.39963 -0.254554,0.457389 -0.7362,0.740484 -1.259039,0.740484 H 9.7608061 V 9.454864 l -0.960123,0.960199 -1.44177,1.439771 1.44177,1.43977 0.960123,0.960199 v -0.960199 h 2.1747999 c 0.434115,0 0.836543,-0.236617 1.048848,-0.616893 l 1.66886,-3.003132"
+     id="path180"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 5.9203131,0.3335 h 3.614457 c 0.435171,0 0.8375989,0.236617 1.0488479,0.616894 L 11.637746,2.849666 12.476402,2.38277 12.104605,3.689444 11.545853,5.64787 9.5875821,5.091187 8.2820681,4.71936 9.1228361,4.252465 7.6219171,1.315882 C 7.3145511,0.713777 6.6945381,0.335613 6.0196001,0.335613 c -0.653814,0 -1.255871,0.353869 -1.572743,0.92534 l -1.262208,2.272155 2.536034,1.365827 0.933718,-1.682725"
+     id="path182"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+</svg>

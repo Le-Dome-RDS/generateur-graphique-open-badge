@@ -1,0 +1,104 @@
+<svg id="proto" enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="40" height="40"
+    xmlns="http://www.w3.org/2000/svg">
+    <title>proto</title>
+ <path
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="M 10.695767,14.75 H 4.305326 C 2.07506,14.75 0.25,12.926032 0.25,10.695767 V 4.304233 C 0.25,2.07506 2.07506,0.25 4.305326,0.25 h 6.390441 C 12.927124,0.25 14.75,2.07506 14.75,4.304233 v 6.391534 C 14.7489,12.92494 12.927124,14.75 10.695767,14.75 Z"
+     id="path1100"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 4.653736,1.442678 c 0,0 0.434694,1.427501 2.885583,1.427501 H 9.67784 c 0,0 0.434694,0.03058 0.434694,0.433602 0,0.40302 -0.371347,0.418311 -0.418311,0.418311 H 8.624962 c 0,0 -0.87048,-0.01529 -0.87048,0.91526"
+     id="path1102"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="M 9.475783,4.653735 V 6.111818 L 8.331161,7.010695 v 0.775461 c 0,0.558112 -0.654225,0.558112 -0.654225,0.558112 h -0.01638 c 0,0 -0.649857,0 -0.649857,-0.558112 V 7.010695 L 5.861708,6.111818 V 4.653735"
+     id="path1104"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <polygon
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.457793"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     points="589.954,105.813 589.954,103.598 588.018,102.836 588.018,105.079 "
+     id="polygon1106"
+     transform="matrix(1.0921964,0,0,1.0921965,-636.589,-102.5246)"
+     style="stroke-width:0.610696;stroke-miterlimit:10;stroke-dasharray:none" />
+  <line
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="7.7566433"
+     y1="8.8565025"
+     x2="5.6454468"
+     y2="9.7870598"
+     id="line1108"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <polygon
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.457793"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     points="587.09,106.3 589.744,106.3 592.396,106.3 595.293,103.398 595.293,100.645 595.293,98.121 592.372,95.187 589.744,95.187 589.741,95.187 587.113,95.187 584.192,98.121 584.192,100.645 584.192,103.398 "
+     id="polygon1110"
+     transform="matrix(1.0921964,0,0,1.0921965,-636.589,-102.5246)"
+     style="stroke-width:0.610696;stroke-miterlimit:10;stroke-dasharray:none" />
+  <polyline
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.457793"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     points="   595.299,98.117 589.743,98.117 584.189,98.117  "
+     id="polyline1112"
+     transform="matrix(1.0921964,0,0,1.0921965,-636.589,-102.5246)"
+     style="stroke-width:0.610696;stroke-miterlimit:10;stroke-dasharray:none" />
+  <polyline
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.457793"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     points="   589.958,103.598 591.895,102.836 591.895,105.079 589.958,105.813  "
+     id="polyline1114"
+     transform="matrix(1.0921964,0,0,1.0921965,-636.589,-102.5246)"
+     style="stroke-width:0.610696;stroke-miterlimit:10;stroke-dasharray:none" />
+  <line
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="7.7610435"
+     y1="8.8565025"
+     x2="9.8722401"
+     y2="9.7870598"
+     id="line1116"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+</svg>

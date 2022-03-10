@@ -1,0 +1,15 @@
+<svg id="echange" enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="40" height="40"
+    xmlns="http://www.w3.org/2000/svg">
+    <title>echnage</title>
+  <polyline
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.641359"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     points="   310.669,401.775 305.113,401.775 305.113,399.527 300.497,404.061 305.113,408.76 305.113,406.382 313.13,406.382 313.13,403.913    318.022,408.796 313.13,413.256 313.13,410.805 307.794,410.805  "
+     id="polyline1426"
+     transform="matrix(0.93580747,0,0,0.93522018,-280.87375,-373.31236)"
+     style="stroke-width:0.712977;stroke-miterlimit:10;stroke-dasharray:none" />
+</svg>

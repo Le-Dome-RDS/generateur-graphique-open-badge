@@ -1,0 +1,81 @@
+<svg id="oeil" enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="40" height="40"
+    xmlns="http://www.w3.org/2000/svg">
+    <title>oeil</title>
+   <ellipse
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     cx="9.0839319"
+     cy="5.6468539"
+     id="circle184"
+     rx="4.5658607"
+     ry="4.5547762"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 8.3222326,3.9072285 c 0.233437,-0.101773 0.491947,-0.157835 0.761697,-0.157835 1.0496034,0 1.9003534,0.848684 1.9003534,1.897464 0,1.047918 -0.85075,1.897464 -1.9003534,1.897464 -1.050468,0 -1.900352,-0.848684 -1.900352,-1.897464 0,-0.269957 0.05447,-0.526115 0.156489,-0.758985"
+     id="path186"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 17.833506,5.6459955 c 0,0 -3.109904,3.617256 -7.228775,4.4038405 -0.501458,0.09574 -1.0193434,0.14921 -1.5476034,0.14921 -4.863277,0 -8.72363797,-4.5539135 -8.72363797,-4.5539135 0,0 3.86036097,-4.553051 8.72363797,-4.553051 4.8624124,8.63e-4 8.7763784,4.553914 8.7763784,4.553914 z"
+     id="path188"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <polyline
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.579017"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     points="   39.49,251.157 39.49,248.957 43.009,248.957  "
+     id="polyline190"
+     transform="matrix(0.86458256,0,0,0.8624836,-32.666762,-214.38823)"
+     style="stroke-width:0.772409;stroke-miterlimit:10;stroke-dasharray:none" />
+  <polyline
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.579017"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     points="   39.49,259.077 39.49,261.277 43.009,261.277  "
+     id="polyline192"
+     transform="matrix(0.86458256,0,0,0.8624836,-32.666762,-214.38823)"
+     style="stroke-width:0.772409;stroke-miterlimit:10;stroke-dasharray:none" />
+  <polyline
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.579017"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     points="   57.089,251.157 57.089,248.957 53.57,248.957  "
+     id="polyline194"
+     transform="matrix(0.86458256,0,0,0.8624836,-32.666762,-214.38823)"
+     style="stroke-width:0.772409;stroke-miterlimit:10;stroke-dasharray:none" />
+  <polyline
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.579017"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     points="   57.089,259.077 57.089,261.277 53.57,261.277  "
+     id="polyline196"
+     transform="matrix(0.86458256,0,0,0.8624836,-32.666762,-214.38823)"
+     style="stroke-width:0.772409;stroke-miterlimit:10;stroke-dasharray:none" />
+</svg>

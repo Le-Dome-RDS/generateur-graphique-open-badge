@@ -1,0 +1,40 @@
+<svg id="loupe" enable-background="new 0 0 24 24" viewBox="0 0 24 24"
+    xmlns="http://www.w3.org/2000/svg">
+    <title>loupe</title>
+<line
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.499999"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="10.146452"
+     y1="10.102381"
+     x2="9.0194874"
+     y2="8.9399338"
+     id="line752"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <ellipse
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.499999"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     cx="5.3790917"
+     cy="5.3562512"
+     id="circle754"
+     rx="5.1290922"
+     ry="5.1062517"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.499999"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="M 9.7506517,10.517233 13.4812,14.750002 c 0,0 0.969744,-0.223296 1.268804,-1.262059 L 10.498301,9.7740078 Z"
+     id="path756"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+</svg>

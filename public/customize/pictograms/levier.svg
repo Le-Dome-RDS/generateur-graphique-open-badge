@@ -1,0 +1,50 @@
+<svg id="levier" enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="40" height="40"
+    xmlns="http://www.w3.org/2000/svg">
+    <title>levier</title>
+<rect
+     x="0.3335"
+     y="13.220443"
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     width="9.9008369"
+     height="1.3267349"
+     id="rect18"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 1.9586986,13.220438 c 0,-1.838352 1.488701,-3.329846 3.326283,-3.329846 1.837581,0 3.326282,1.491494 3.326282,3.329846"
+     id="path20"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <line
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="5.8461924"
+     y1="9.9491243"
+     x2="14.179278"
+     y2="3.0845623"
+     id="line22"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="M 14.302783,3.24933 14.042748,2.932821 c -0.139769,-0.169094 -0.114849,-0.42165 0.05417,-0.561478 l 2.365236,-1.94782805 c 0.16794,-0.139827 0.422557,-0.114897 0.562326,0.05528 l 0.258952,0.316509 c 0.139769,0.170177 0.114849,0.42273305 -0.05417,0.56256005 L 14.865109,3.304609 C 14.693919,3.443353 14.442552,3.418422 14.302783,3.24933 Z"
+     id="path24"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+</svg>

@@ -1,0 +1,74 @@
+<svg id="alimentation" enable-background="new 0 0 24 24" viewBox="0 0 24 24"
+    xmlns="http://www.w3.org/2000/svg">
+    <title>alimentation</title>
+ <path
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 13.049091,6.805241 c 0,0.693634 -2.228537,1.387267 -5.5480062,1.387267 -3.320555,0 -5.550179,-0.694719 -5.550179,-1.387267"
+     id="path630"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 3.1091388,12.815645 c 0,0 1.15389,0.693634 2.543334,0.693634"
+     id="path632"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 11.89303,12.815645 c 0,0 -1.15606,0.693634 -2.5455042,0.693634"
+     id="path634"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 4.9566648,4.400863 c -0.403807,0.04559 -0.789161,0.102036 -1.15389,0.168252 -2.078739,0.38101 -3.46926798,1.093097 -3.46926798,2.006001 0,0 0,5.31677 3.93060698,6.935248 0,0 0.46351,1.156056 3.238056,1.156056 2.7723762,0 3.2358862,-1.156056 3.2358862,-1.156056 3.928435,-1.617392 3.928435,-6.935248 3.928435,-6.935248 0,-0.769619 -0.985637,-1.397037 -2.541163,-1.801928"
+     id="path636"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="M 7.5010848,6.630476 C 8.0145278,6.003058 12.440124,-0.865975 14.28765,0.515864 16.255668,1.986714 9.9402108,5.987861 9.2368048,6.630476"
+     id="path638"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 5.6513868,0.3335 c 0,0 0.643704,0.498244 0,1.386182 -0.648045,0.887937 0,1.387267 0,1.387267"
+     id="path640"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 6.8074478,2.183189 c 0,0 0.645875,0.498244 0,1.386182 -0.645874,0.889023 0,1.387267 0,1.387267"
+     id="path642"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+</svg>

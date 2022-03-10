@@ -1,0 +1,122 @@
+<svg id="materiaux" enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="40" height="40"
+    xmlns="http://www.w3.org/2000/svg">
+    <title>materiaux</title>
+<path
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 6.5404823,5.9127145 0.864332,5.0325705 c 0.08983,0.530205 0.72192,0.764635 1.138202,0.42285 L 12.452777,8.1474645 c 0.416281,-0.34288 0.306733,-1.006733 -0.197186,-1.197344 l -4.7740937,-1.8119 c -0.507206,-0.192802 -1.03194,0.238812 -0.941015,0.774494 z"
+     id="path392"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <line
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="9.7535219"
+     y1="8.8551359"
+     x2="11.538053"
+     y2="11.020877"
+     id="line394"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 11.538053,11.021967 v 0 c 0.304542,-0.250861 0.750402,-0.219093 1.014412,0.07121 l 2.052926,2.253373 c 0.341789,0.375744 0.299065,0.961818 -0.09092,1.284981 l -0.0033,0.0011 C 14.11899,14.955794 13.536195,14.884588 13.232748,14.47598 L 11.41535,12.029805 c -0.234432,-0.314399 -0.181849,-0.758062 0.122694,-1.007829 z"
+     id="path396"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <polyline
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.456424"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     points="   122.658,146.137 122.658,143.361 131.626,143.361 131.626,146.137  "
+     id="polyline398"
+     transform="matrix(1.095478,0,0,1.0954657,-131.6957,-156.71355)"
+     style="stroke-width:0.60887;stroke-miterlimit:10;stroke-dasharray:none" />
+  <line
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="7.5866613"
+     y1="0.3335"
+     x2="7.5866613"
+     y2="3.1411829"
+     id="line400"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <polyline
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.456424"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     points="   125.008,146.137 125.008,148.913 120.522,148.913 120.522,146.137 133.762,146.137 133.762,148.913 132.48,148.913  "
+     id="polyline402"
+     transform="matrix(1.095478,0,0,1.0954657,-131.6957,-156.71355)"
+     style="stroke-width:0.60887;stroke-miterlimit:10;stroke-dasharray:none" />
+  <line
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="9.9266119"
+     y1="3.3745136"
+     x2="9.9266119"
+     y2="4.5444803"
+     id="line404"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <line
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="2.6734419"
+     y1="6.4155283"
+     x2="2.6734419"
+     y2="9.456542"
+     id="line406"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <polyline
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.456424"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     points="   125.435,151.689 120.522,151.689 120.522,154.464 125.86,154.464  "
+     id="polyline408"
+     transform="matrix(1.095478,0,0,1.0954657,-131.6957,-156.71355)"
+     style="stroke-width:0.60887;stroke-miterlimit:10;stroke-dasharray:none" />
+  <line
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="5.2478209"
+     y1="9.456542"
+     x2="5.2478209"
+     y2="12.49647"
+     id="line410"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+</svg>

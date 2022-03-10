@@ -1,0 +1,36 @@
+<svg id="cc" enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="40" height="40"
+    xmlns="http://www.w3.org/2000/svg">
+    <title>cc</title>
+    <circle
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     cx="7.5834999"
+     cy="7.5834999"
+     r="7.25"
+     id="circle1244"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="M 6.951716,6.5678584 C 6.69506,6.1565494 6.540408,5.7035614 5.406293,5.7035614 c -1.131922,0 -1.670462,0.729387 -1.670462,2.029123 0,1.299735 0.905976,1.965506 1.607943,1.965506 0.701966,0 1.281089,-0.311497 1.609039,-1.07708"
+     id="path1246"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 11.579212,6.5678584 c -0.253366,-0.411309 -0.411308,-0.864297 -1.542133,-0.864297 -1.134115,0 -1.670461,0.729387 -1.670461,2.029123 0,1.299735 0.904879,1.965506 1.606846,1.965506 0.700869,0 1.282186,-0.311497 1.606845,-1.07708"
+     id="path1248"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+</svg>

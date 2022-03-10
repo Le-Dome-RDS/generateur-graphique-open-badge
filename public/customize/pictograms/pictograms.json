@@ -1,6 +1,7 @@
 {
-  "Scientifique": ["science"],
-  "Santé": ["sante"],
-  "Environnement": ["eau","air"],
-  "Numérique": ["cloud"]
+  "Scientifique": ["science","socio","loupe","techno","materiaux","espace","fiction","archeo","monde","hydrogene","levier"],
+  "Santé": ["sante","alimentation","sexe","oeil"],
+  "Environnement": ["eau","air","light","feuille","agriculture","megot","recycler","rural","habitat","ville","energie","mobilite","transition"],
+  "Numérique": ["cloud","robot","ecran","capteur","ia","code","puce","proto","vr","cc","badge"],
+  "Autres": ["aide","culture","mediation","economie","echange","art","construire","creatif","livre","ecriture","collaborer","licorne","main","interrogation","vote","cocrea","scene","lion"]
 }

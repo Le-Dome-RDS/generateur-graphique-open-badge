@@ -1,0 +1,40 @@
+<svg id="hydrogene" enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="40" height="40"
+    xmlns="http://www.w3.org/2000/svg">
+    <title>hydrogene</title>
+   <ellipse
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     cx="6.9914804"
+     cy="8.1774979"
+     id="circle214"
+     rx="1.3291757"
+     ry="1.3287818"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <ellipse
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     cx="6.9914804"
+     cy="1.6622819"
+     id="circle216"
+     rx="1.3291757"
+     ry="1.3287818"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 8.3217585,1.6556798 c 3.0401595,0.6159916 5.3277055,3.302155 5.3277055,6.5229111 0,3.6750501 -2.980742,6.6549091 -6.6590819,6.6549091 -3.6761394,0 -6.6568821,-2.979859 -6.6568821,-6.6549091 0,-3.2163561 2.2820452,-5.9003196 5.3156029,-6.5207111"
+     id="path218"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+</svg>

@@ -1,0 +1,124 @@
+<svg id="mediation" enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="40" height="40"
+    xmlns="http://www.w3.org/2000/svg">
+    <title>mediation</title>
+      <g
+     id="g266"
+     style="stroke-width:0.683078;stroke-miterlimit:10;stroke-dasharray:none"
+     transform="matrix(0.97639269,0,0,0.97653099,-116.88832,-390.14828)">
+    <g
+       id="g260"
+       style="stroke-width:0.683078;stroke-miterlimit:10;stroke-dasharray:none">
+      <path
+         fill="none"
+         stroke="currentcolor"
+         stroke-width="0.5"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         d="m 133.227,410.677 h -5.108 v -1.527 c 0,-0.837 0.679,-1.516 1.517,-1.516 h 2.075 c 0.837,0 1.517,0.679 1.517,1.516 v 1.527 z"
+         id="path258"
+         style="stroke-width:0.683078;stroke-miterlimit:10;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g264"
+       style="stroke-width:0.683078;stroke-miterlimit:10;stroke-dasharray:none">
+      <circle
+         fill="none"
+         stroke="currentcolor"
+         stroke-width="0.5"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         cx="130.832"
+         cy="405.552"
+         r="1.7180001"
+         id="circle262"
+         style="stroke-width:0.683078;stroke-miterlimit:10;stroke-dasharray:none" />
+    </g>
+  </g>
+  <g
+     id="g276"
+     style="stroke-width:0.683078;stroke-miterlimit:10;stroke-dasharray:none"
+     transform="matrix(0.97639269,0,0,0.97653099,-116.88832,-390.14828)">
+    <g
+       id="g270"
+       style="stroke-width:0.683078;stroke-miterlimit:10;stroke-dasharray:none">
+      <path
+         fill="none"
+         stroke="currentcolor"
+         stroke-width="0.5"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         d="m 125.164,410.677 h -5.108 v -1.527 c 0,-0.837 0.679,-1.516 1.517,-1.516 h 2.075 c 0.837,0 1.517,0.679 1.517,1.516 v 1.527 z"
+         id="path268"
+         style="stroke-width:0.683078;stroke-miterlimit:10;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g274"
+       style="stroke-width:0.683078;stroke-miterlimit:10;stroke-dasharray:none">
+      <circle
+         fill="none"
+         stroke="currentcolor"
+         stroke-width="0.5"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         cx="122.769"
+         cy="405.552"
+         r="1.7180001"
+         id="circle272"
+         style="stroke-width:0.683078;stroke-miterlimit:10;stroke-dasharray:none" />
+    </g>
+  </g>
+  <g
+     id="g282"
+     style="stroke-width:0.683078;stroke-miterlimit:10;stroke-dasharray:none"
+     transform="matrix(0.97639269,0,0,0.97653099,-116.88832,-390.14828)">
+    <path
+       fill="none"
+       stroke="currentcolor"
+       stroke-width="0.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       d="m 122.752,401.639 c 2.193,-2.313 5.963,-2.478 8.592,0.136"
+       id="path278"
+       style="stroke-width:0.683078;stroke-miterlimit:10;stroke-dasharray:none" />
+    <polyline
+       fill="none"
+       stroke="currentcolor"
+       stroke-width="0.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       points="     131.434,399.926 131.366,401.798 129.421,401.939    "
+       id="polyline280"
+       style="stroke-width:0.683078;stroke-miterlimit:10;stroke-dasharray:none" />
+  </g>
+  <g
+     id="g288"
+     style="stroke-width:0.683078;stroke-miterlimit:10;stroke-dasharray:none"
+     transform="matrix(0.97639269,0,0,0.97653099,-116.88832,-390.14828)">
+    <path
+       fill="none"
+       stroke="currentcolor"
+       stroke-width="0.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       d="m 131.217,412.771 c -2.193,2.313 -5.963,2.478 -8.592,-0.136"
+       id="path284"
+       style="stroke-width:0.683078;stroke-miterlimit:10;stroke-dasharray:none" />
+    <polyline
+       fill="none"
+       stroke="currentcolor"
+       stroke-width="0.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       points="     122.534,414.484 122.604,412.612 124.547,412.471    "
+       id="polyline286"
+       style="stroke-width:0.683078;stroke-miterlimit:10;stroke-dasharray:none" />
+  </g>
+</svg>

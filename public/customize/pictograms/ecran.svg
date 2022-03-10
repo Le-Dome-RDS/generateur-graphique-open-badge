@@ -1,0 +1,63 @@
+<svg id="ecran" enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="40" height="40"
+    xmlns="http://www.w3.org/2000/svg">
+    <title>ecran</title>
+<path
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="M 13.790787,12.262182 H 1.3751574 C 0.8000867,12.262182 0.3335,11.795568 0.3335,11.21941 V 1.3762721 C 0.3335,0.8011671 0.7990335,0.3335 1.3751574,0.3335 H 13.790787 c 0.57507,0 1.04271,0.4676671 1.04271,1.0427721 V 11.21941 c 0.0011,0.576158 -0.466586,1.042772 -1.04271,1.042772 z"
+     id="path682"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 5.9472853,13.197517 v 0.116917 c 0,0.221194 -0.104271,0.428695 -0.281216,0.561412 l -0.65617,0.49084 h 5.1450927 l -0.6540637,-0.49084 c -0.176945,-0.132717 -0.280163,-0.340218 -0.280163,-0.561412 v -0.116917"
+     id="path684"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <ellipse
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     cx="3.8007731"
+     cy="2.2452445"
+     id="circle686"
+     rx="0.46869317"
+     ry="0.46872085"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <ellipse
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     cx="2.1629872"
+     cy="2.2452445"
+     id="circle688"
+     rx="0.46763995"
+     ry="0.46766755"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <ellipse
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     cx="5.4364696"
+     cy="2.2452445"
+     id="circle690"
+     rx="0.46763995"
+     ry="0.46766755"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+</svg>

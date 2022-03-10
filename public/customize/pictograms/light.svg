@@ -1,0 +1,92 @@
+<svg id="lighte" enable-background="new 0 0 24 24" viewBox="0 0 24 24"
+    xmlns="http://www.w3.org/2000/svg">
+    <title>light</title>
+  <path
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 10.118306,5.1919961 c 0,-2.897991 -2.5124852,-5.20846218 -5.4811857,-4.88059531 C 2.6282336,0.53364612 0.62485663,2.4579385 0.33283524,4.4548458 0.0970142,6.0754763 0.65460975,7.5695811 1.6750317,8.613694 2.5588096,9.5147778 3.089958,10.70082 3.089958,11.962777 v 1.046313 c 0,0.44339 0.1234203,0.704144 0.338304,0.88238 l 0.8066402,0.672237 c 0.168601,0.139729 0.3812807,0.216744 0.6005723,0.216744 h 0.7261966 c 0.2192915,0 0.4308692,-0.07701 0.6005722,-0.216744 L 6.9688836,13.89147 c 0.2137816,-0.178236 0.338304,-0.44009 0.338304,-0.718447 v -1.212447 c 0,-1.217948 0.4540106,-2.4094908 1.3256664,-3.258864 0.916837,-0.8900816 1.485452,-2.1333352 1.485452,-3.5097159 z"
+     id="path422" />
+  <line
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="3.0899544"
+     y1="12.910066"
+     x2="7.307188"
+     y2="12.910066"
+     id="line424" />
+  <line
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="3.3764682"
+     y1="13.845264"
+     x2="7.0217757"
+     y2="13.845264"
+     id="line426" />
+  <line
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="3.0899544"
+     y1="11.973778"
+     x2="7.307188"
+     y2="11.973778"
+     id="line428" />
+  <line
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="5.9021778"
+     y1="11.973778"
+     x2="7.307188"
+     y2="6.829134"
+     id="line430" />
+  <line
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="4.4971676"
+     y1="11.973778"
+     x2="3.0899544"
+     y2="6.829134"
+     id="line432" />
+  <polyline
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.454093"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     points="   123.074,98.852 123.924,97.576 124.987,98.852 126.051,97.576 126.901,98.852  "
+     id="polyline434"
+     transform="matrix(1.1019675,0,0,1.1002244,-132.53358,-102.86545)" />
+  <path
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 9.1816338,5.1919961 c 0,-2.1960479 -1.7851869,-3.9751107 -3.983612,-3.9751107"
+     id="path436" />
+</svg>

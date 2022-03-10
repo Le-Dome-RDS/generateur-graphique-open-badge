@@ -1,0 +1,63 @@
+<svg id="vote" enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="40" height="40"
+    xmlns="http://www.w3.org/2000/svg">
+    <title>vote</title>
+ <rect
+     x="5.2750354"
+     y="-4.8034148"
+     transform="rotate(45)"
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.499995"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     width="3.5839658"
+     height="5.1199508"
+     id="rect1218"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <polyline
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     points="   673.507,199.458 670.876,199.458 669.077,201.693 669.077,202.266  "
+     id="polyline1220"
+     transform="translate(-668.7435,-194.12632)"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 6.569495,6.3356837 h 1.256 c 0.043,0 0.079,0.036 0.079,0.079 v 0.379 c 0,0.043 -0.036,0.079 -0.079,0.079 h -3.536 c -0.042,0 -0.079,-0.036 -0.079,-0.079 v -0.379 c 0,-0.043 0.037,-0.079 0.079,-0.079 h 1.479"
+     id="path1222"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <polyline
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     points="   680.503,202.266 680.503,201.693 678.704,199.458 676.313,199.458  "
+     id="polyline1224"
+     transform="translate(-668.7435,-194.12632)"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <rect
+     x="0.33352107"
+     y="8.1136885"
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     width="11.426"
+     height="6.7179999"
+     id="rect1226"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+</svg>

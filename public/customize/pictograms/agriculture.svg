@@ -1,0 +1,96 @@
+<svg id="agriculture" enable-background="new 0 0 24 24" viewBox="0 0 24 24"
+    xmlns="http://www.w3.org/2000/svg">
+    <title>agriculture</title>
+<path
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="M 6.603864,6.5950116 H 3.320967 c -0.33171,0 -0.599152,-0.267463 -0.599152,-0.598163 0,-0.328626 0.267442,-0.596089 0.599152,-0.596089 h 3.282897"
+     id="path704"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="M 6.603864,5.4007596 H 2.721815 c -0.3286,0 -0.597078,-0.268499 -0.597078,-0.598162 0,-0.329664 0.267441,-0.598163 0.597078,-0.598163 h 3.882049"
+     id="path706"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="M 6.603864,4.2054716 H 3.61847 c -0.329637,0 -0.597079,-0.267463 -0.597079,-0.596089 0,-0.3307 0.267442,-0.598163 0.597079,-0.598163 h 4.154673 c 0.200063,0 0.374211,-0.130621 0.431224,-0.32137 0.05494,-0.190748 -0.02177,-0.394974 -0.186587,-0.501751 L 6.943867,1.4935246 C 6.661913,1.3110696 6.57173,0.93682958 6.743804,0.64552358 c 0.085,-0.148245 0.228051,-0.252949 0.391833,-0.294417 0.167929,-0.04043 0.340004,-0.01244 0.486163,0.07775 l 2.952223,1.84113802 c 1.132999,0.70494 1.658552,2.07439 1.290561,3.354686 -0.365918,1.281333 -1.536234,2.164581 -2.870332,2.164581 h -4.77663 c -0.330674,0 -0.598115,-0.267462 -0.598115,-0.596089 0,-0.3307 0.267441,-0.598162 0.598115,-0.598162 h 2.387279"
+     id="path708"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 14.666501,10.774893 h -2.757343 c -0.523481,0 -1.02001,0.229105 -1.36105,0.626152 l -1.685503,1.96865 c -0.340003,0.397047 -0.839642,0.624079 -1.363123,0.624079 -0.521407,0 -1.020009,-0.227032 -1.361049,-0.624079 L 4.453966,11.401045 C 4.112926,11.003998 3.61536,10.774893 3.092917,10.774893 H 0.3335"
+     id="path710"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <line
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="6.6038566"
+     y1="9.580636"
+     x2="7.2019687"
+     y2="8.9845495"
+     id="line712"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <line
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="7.8001113"
+     y1="6.5950174"
+     x2="8.3950891"
+     y2="5.9968424"
+     id="line714"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <line
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="7.8001113"
+     y1="10.774896"
+     x2="8.3950891"
+     y2="10.178809"
+     id="line716"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <line
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="7.2019687"
+     y1="12.567298"
+     x2="7.8001113"
+     y2="11.970183"
+     id="line718"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+</svg>

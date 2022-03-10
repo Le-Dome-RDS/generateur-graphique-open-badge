@@ -1,0 +1,82 @@
+<svg id="sexe" enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="40" height="40"
+    xmlns="http://www.w3.org/2000/svg">
+    <title>sexe</title>
+<ellipse
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     cx="4.0834985"
+     cy="5.9461956"
+     id="circle1362"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none"
+     rx="3.7499983"
+     ry="3.7432501" />
+  <line
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="4.0834985"
+     y1="14.665952"
+     x2="4.0834985"
+     y2="9.6513958"
+     id="line1364"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <line
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="2.4079139"
+     y1="12.158126"
+     x2="5.7591496"
+     y2="12.158126"
+     id="line1366"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <line
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="7.1220665"
+     y1="3.3394182"
+     x2="10.134501"
+     y2="0.3335"
+     id="line1368"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <line
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="7.2713518"
+     y1="0.3335"
+     x2="10.134501"
+     y2="0.3335"
+     id="line1370"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <line
+     fill="none"
+     stroke="currentcolor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="10.134501"
+     y1="0.3335"
+     x2="10.134501"
+     y2="3.1915135"
+     id="line1372"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+</svg>

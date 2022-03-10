@@ -1,0 +1,84 @@
+<svg id="megot" enable-background="new 0 0 24 24" viewBox="0 0 24 24"
+    xmlns="http://www.w3.org/2000/svg">
+    <title>megot</title>
+ <path
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="M 1.472325,10.405866 C 0.789248,9.9947046 0.3335,9.2463466 0.3335,8.3913926 c 0,-1.29766 1.051809,-2.350582 2.349438,-2.350582"
+     id="path366"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 4.530945,1.6768447 c -1.762078,0 -3.190232,1.4281869 -3.190232,3.1903069 v 1.510855"
+     id="path368"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 7.383989,0.3335 c 1.483627,0 2.686626,1.2030278 2.686626,2.6866886 0,1.483662 -1.201912,2.685602 -2.686626,2.685602 v 1.007237 c 0,1.29766 -1.052896,2.350581 -2.349438,2.350581 H 4.025163 c -0.740725,0 -1.341137,0.630882 -1.341137,1.4096964 v 0.604777"
+     id="path370"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <polygon
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     points="133.78,203.125 133.782,206.193 127.781,206.213 127.779,203.146 "
+     id="polygon372"
+     transform="matrix(1.0877027,0,0,1.0877285,-130.76078,-209.63726)"
+     style="stroke-width:0.613212;stroke-miterlimit:10;stroke-dasharray:none" />
+  <line
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="6.8553619"
+     y1="14.651275"
+     x2="6.8510132"
+     y2="11.314115"
+     id="line374"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <line
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="5.5164051"
+     y1="14.651275"
+     x2="5.5131435"
+     y2="11.314115"
+     id="line376"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+  <line
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     x1="4.1807013"
+     y1="14.651275"
+     x2="4.1752653"
+     y2="11.314115"
+     id="line378"
+     style="stroke-width:0.667;stroke-miterlimit:10;stroke-dasharray:none" />
+</svg>
