@@ -87,7 +87,7 @@
         {"id": 400, "title": "rendre visible des compétences", "level": 0, "childOf": null},
             {"id": 410, "title": "ou savoir que l'on souhaite acquérir", "level": 1, "childOf": 400, "badgeId": "Sv1"},
             {"id": 420, "title": "ou savoir faire que l'on souhaite acquérir", "level": 1, "childOf": 400, "badgeId": "Sf1"},
-            {"id": 430, "title": "ou savoir auxquels ont a été initié", "level": 1, "childOf": 400, "badgeId": "Sv2"},
+            {"id": 430, "title": "ou savoir auxquels on a été initié", "level": 1, "childOf": 400, "badgeId": "Sv2"},
             {"id": 440, "title": "ou savoir faire que l'on a testé", "level": 1, "childOf": 400, "badgeId": "Sf2"},
             {"id": 450, "title": "ou savoir que l'on exerce de temps en temps", "level": 1, "childOf": 400, "badgeId": "Sv3"},
             {"id": 460, "title": "ou savoir faire que l'on exerce de temps en temps", "level": 1, "childOf": 400, "badgeId": "Sf3"},
